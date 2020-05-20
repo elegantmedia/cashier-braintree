@@ -21,7 +21,7 @@
         "illuminate/support": "^6.0|^7.0",
         "illuminate/view": "^6.0|^7.0",
         "nesbot/carbon": "^1.26.3|^2.0",
-        "symfony/http-kernel": "4.3.4"
+        "symfony/http-kernel": "^5.0"
     },
     "require-dev": {
         "ext-json": "*",
